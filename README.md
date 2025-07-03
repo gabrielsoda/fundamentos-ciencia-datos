@@ -27,7 +27,7 @@ Este repositorio contiene los notebooks desarrollados durante la cursada de la m
 ## Cómo correr los notebooks
 
 1. Cloná el repositorio
-2. Activá tu entorno virtual (si tenés uno)
+2. Activá tu entorno virtual e intalar dependencias con requirements.txt
 3. Abrí los notebooks con `jupyter notebook` o desde VS Code
 
 ---
